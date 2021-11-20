@@ -13,7 +13,6 @@ There is a collection of my assignments. This undergraduate course is "Artificia
 
 ### 2.2 Lab Assignments
 
-以下文件夹中以学号开头的文件夹为本人
 #### 2.2.1 Assignment1(lab1)
 
 将文本数据集表示成TF-IDF矩阵，使用KNN进行分类和回归。
