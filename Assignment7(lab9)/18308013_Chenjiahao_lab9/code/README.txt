@@ -1,0 +1,10 @@
+code			// 代码文件目录
+|----start_game.py			// 游戏主体代码
+|----chess.py			// chess类代码（包括所有与五子棋有关的操作）
+|----image.py			// 游戏图像类代码
+|----settings.py			// 游戏设置类代码
+|----images		// 游戏图片目录
+        |----blackchess.png		// 黑棋图像
+        |----whitechess.png		// 白棋图像
+        |----board.png			// 棋盘图像
+        |----star.png			// 星状图像

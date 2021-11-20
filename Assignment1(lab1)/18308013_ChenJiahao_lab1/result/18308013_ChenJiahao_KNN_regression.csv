@@ -1,0 +1,313 @@
+textid,Words (split by space),anger,disgust,fear,joy,sad,surprise
+1,senator carl krueger thinks ipods can kill you,0.1357,0.182,0.0295,0.1626,0.2078,0.2823
+2,who is prince frederic von anhalt,0.0893,0.1271,0.0325,0.2562,0.2222,0.2726
+3,prestige has magic touch,0.0,0.0,0.0385,0.4151,0.1851,0.3613
+4,study female seals picky about mates,0.0438,0.0697,0.076,0.3761,0.0913,0.3431
+5,no e book for harry potter vii,0.1067,0.0907,0.0717,0.2092,0.2702,0.2516
+6,blair apologises over friendly fire inquest,0.1101,0.0373,0.2653,0.0057,0.4943,0.0873
+7,vegetables may boost brain power in older adults,0.0,0.0,0.0926,0.4444,0.0,0.463
+8,afghan forces retake town that was overrun by taliban,0.1318,0.0421,0.2907,0.0602,0.4114,0.0639
+9,skip the showers male sweat turns women on study says,0.0258,0.1408,0.0289,0.123,0.0294,0.6521
+10,made in china irks some burberry shoppers,0.0953,0.0935,0.1559,0.3093,0.08,0.266
+11,britain to restrict immigrants from new eu members,0.1283,0.0585,0.3123,0.112,0.2673,0.1216
+12,canadian breakthrough offers hope on autism,0.0882,0.0365,0.1767,0.2364,0.1233,0.3388
+13,russia to strengthen its military muscle,0.1118,0.0937,0.2488,0.2258,0.1699,0.1501
+14,alzheimer s drugs offer no help study finds,0.1136,0.0771,0.1634,0.289,0.1869,0.17
+15,uk police slammed over terror raid,0.154,0.1074,0.3998,0.0617,0.2077,0.0695
+16,no rejects police state claim,0.1208,0.083,0.3452,0.0929,0.1462,0.2119
+17,oprah announces new book club pick,0.0461,0.0902,0.0972,0.4435,0.1392,0.1838
+18,smith can t be buried until hearing,0.1008,0.0206,0.1649,0.0412,0.3118,0.3608
+19,african nation hopes whoopi can help,0.0382,0.022,0.1229,0.3107,0.18,0.3261
+20,tourism lags in bush s hometown,0.1218,0.0988,0.2035,0.2903,0.1436,0.142
+21,air france klm profit rises,0.1596,0.0538,0.1981,0.3004,0.1623,0.1259
+22,au regrets sudan s expulsion of un envoy,0.0571,0.0388,0.0818,0.3744,0.0993,0.3486
+23,taiwan s mr clean indicted steps down,0.1583,0.0536,0.2445,0.101,0.2848,0.1577
+24,martian life could have evaded detection by viking landers,0.1176,-0.0,0.0588,-0.0,0.1176,0.706
+25,turner pays for boston bombing,0.1007,0.0784,0.2213,0.3026,0.1616,0.1354
+26,serena misses bangalore tournament,0.0361,0.0359,0.1241,0.2939,0.2557,0.2543
+27,attorneys point fingers in fight between ryan o neal and son,0.1045,0.0339,0.1303,0.3067,0.1332,0.2914
+28,pledge i was abused in frat hazing,0.0319,0.0476,0.1664,0.1921,0.1051,0.4568
+29,whistle blowing web site exposed,0.1442,0.0971,0.195,0.2118,0.1613,0.1906
+30,growing unarmed battalion in qaeda army is using internet to get the message out,0.13,0.1092,0.2184,0.2514,0.1897,0.1014
+31,royal rescues presidential hopes with commanding performance,0.0262,0.0404,0.0743,0.5172,0.1126,0.2293
+32,minister slams airlines on carbon,0.1289,0.0846,0.2004,0.2579,0.126,0.2023
+33,audio slide show a love story lasting years,0.0486,0.0417,0.0922,0.3722,0.172,0.2733
+34,fully cooked chicken strips recalled,0.0604,0.0288,0.1684,0.4721,0.0993,0.171
+35,madonna adoption bid approved,0.0,0.0312,0.0284,0.6419,0.0572,0.2414
+36,rowdy fans ejected from the open,0.0417,0.0,0.0412,0.658,0.1244,0.1346
+37,snow wreaks havoc in east midwest,0.0842,0.0292,0.3296,0.0254,0.2275,0.3041
+38,the energy challenge exotic visions how to cool a planet maybe,0.0811,0.1013,0.1683,0.2318,0.1133,0.3042
+39,libby defense upsets judge rests,0.2284,0.1225,0.1098,0.1576,0.1167,0.265
+40,briton admits u s bomb plot role,0.1565,0.1077,0.3365,0.0601,0.2013,0.1377
+41,routine mission turns into hunt for missing comrade,0.0147,0.0,0.1805,0.4156,0.1598,0.2293
+42,ex suspect slams anti terror laws,0.0882,0.0367,0.3377,0.2179,0.1144,0.2051
+43,federer overcomes a ragged start,0.0191,0.0161,0.0404,0.4096,0.1787,0.3361
+44,investigation of child porn site hits nations,0.1611,0.1612,0.1251,0.202,0.1978,0.1528
+45,bangladesh ends curfew amid unrest,0.0506,0.0391,0.1268,0.4433,0.1225,0.2176
+46,sarkozy comfort zone offers a royal opportunity,0.0692,0.0329,0.0873,0.4588,0.0354,0.3163
+47,sick hearts switch on a fetal gene,0.0952,0.0767,0.1255,0.2706,0.1019,0.3301
+48,chinese president arrives in mozambique african tour nearly over,0.0,0.0087,0.0,0.5613,0.0,0.43
+49,homemade bombs kill on indian train,0.1039,0.0723,0.3368,0.0,0.3443,0.1427
+50,france rejects rwandan investigators,0.1299,0.0756,0.2365,0.2453,0.172,0.1407
+51,at libby trial russert of nbc gives and gets,0.116,0.081,0.1236,0.2656,0.1427,0.2711
+52,rare optimism as north korea talks reach crossroads,0.0617,0.0201,0.1819,0.3872,0.1071,0.2419
+53,for women nothing s like the smell of men s sweat,-0.0,0.1882,-0.0,0.1529,-0.0,0.6589
+54,reports harvard set to name first female president,0.0335,0.0313,0.0888,0.4122,0.0631,0.371
+55,justin timberlake cameron diaz announce split,0.0441,0.0233,0.118,0.45,0.2148,0.1498
+56,hastert sorry for scandal but not quitting,0.0448,0.1056,0.0173,0.3441,0.2185,0.2698
+57,world s oldest newspaper now exists only online,0.1544,0.1388,0.1965,0.1327,0.1839,0.1937
+58,houston she s got some problems,0.0683,0.0838,0.1062,0.2869,0.1384,0.3164
+59,firms on alert for letter bombs,0.0223,0.0033,0.2474,0.1449,0.1921,0.3901
+60,study africa s internet gap getting wider,0.1092,0.0918,0.1355,0.1914,0.2162,0.2559
+61,siesta cuts risk of heart disease death study finds,0.0805,0.0356,0.1225,0.4391,0.1064,0.216
+62,spain ahead although nadal is out,0.0139,0.0085,0.1184,0.4584,0.1659,0.2349
+63,runway making good without making nice,0.0455,0.0554,0.0265,0.4876,0.1148,0.2701
+64,russia plans new icbms nuclear subs,0.1176,0.0857,0.2502,0.1509,0.1064,0.2894
+65,no buyer in sight for napster,0.1426,0.1178,0.0987,0.106,0.2155,0.3194
+66,outcry at n korea nuclear test,0.0844,0.045,0.3099,0.2867,0.151,0.1229
+67,ipod good for video games,0.0,0.0234,0.0018,0.6331,0.0175,0.3242
+68,taking the plunge,0.0428,0.0311,0.1844,0.3102,0.0781,0.3534
+69,england include giles in wc squad,0.069,0.0422,0.14,0.2239,0.3136,0.2113
+70,beyonce copyright claim rejected,0.0642,0.0546,0.1318,0.2513,0.1295,0.3685
+71,london market a shopping dining haven,0.051,0.0808,0.0914,0.3336,0.1749,0.2683
+72,pm havana deal a good experiment,0.1856,0.1164,0.0361,0.339,0.1577,0.1652
+73,dozens killed in baghdad bombing,0.1264,0.0936,0.3122,0.0346,0.326,0.1072
+74,damaged japanese whaling ship may resume hunting off antarctica,0.0776,0.0422,0.1427,0.295,0.2716,0.1709
+75,un nuclear watchdog slashes iran aid,0.1778,0.0428,0.2817,0.1232,0.2318,0.1426
+76,toyota s scion parks in second life,0.0803,0.0509,0.0958,0.2862,0.1858,0.301
+77,telecoms giant slashes jobs,0.0369,0.0232,0.1282,0.4376,0.1922,0.1819
+78,canete wins inaugural joburg open,0.02,0.0,0.0379,0.7589,0.0538,0.1294
+79,yahoo s mission quest,0.0984,0.0873,0.1602,0.1575,0.327,0.1695
+80,weekly nielsen will lost find its way back,0.081,0.0498,0.1385,0.3196,0.2722,0.139
+81,u s online love brokers eye china,0.1103,0.1037,0.2329,0.1624,0.2619,0.1288
+82,amish schoolhouse torn down,0.1331,0.0338,0.2068,0.1466,0.3306,0.1491
+83,china cheney shores up the trilateral alliance,0.085,0.0057,0.1059,0.4686,0.0484,0.2865
+84,g yen skates by yuan singled out,0.1529,0.0833,0.1616,0.0958,0.2646,0.2418
+85,friendly fire pilot experienced,0.0366,0.0854,0.3902,0.0,0.1707,0.3171
+86,updates on world s top stories,0.0,0.0,0.6667,0.0,0.0,0.3333
+87,diplomat acknowledges us arrogance in iraq,0.2197,0.0913,0.2195,0.041,0.3808,0.0477
+88,madonna s new baby s daddy didn t realize adoption was for good,0.0773,0.0611,0.0996,0.3156,0.111,0.3355
+89,appeal by chinese researcher for times may soon be heard,0.0893,0.0611,0.1256,0.2661,0.217,0.2407
+90,snowbirds shortening their florida stays,0.0599,0.0468,0.1422,0.3098,0.3095,0.1318
+91,oxfam action needed for chad,0.0353,0.0289,0.0454,0.5618,0.0549,0.2736
+92,bush adamant on troops to iraq,0.1891,0.1146,0.3618,0.0401,0.2496,0.045
+93,ukraine gas deal marred by fears,0.1315,0.0919,0.1604,0.3298,0.1445,0.1419
+94,shoplifters choice police or t shirt of shame,0.1055,0.063,0.2559,0.2204,0.0938,0.2613
+95,travel chaos as heavy snow hits uk,0.0589,0.0418,0.2465,0.2169,0.2731,0.1628
+96,tow truck drivers accused of stealing cars,0.0578,0.0717,0.1462,0.1943,0.3587,0.1713
+97,joseph wambaugh s new start,0.0,0.0056,0.0743,0.6339,0.0526,0.2336
+98,human error caused helios crash,0.0911,0.0579,0.1744,0.1277,0.476,0.0728
+99,charts is your city lean or lethargic,0.0225,0.0154,0.1015,0.3675,0.0379,0.4552
+100,st louis poised for entertainment upswing,0.0353,0.0289,0.0454,0.6637,0.0548,0.1719
+101,ivrea journal in italian town a civics lesson from pelting neighbors,0.0668,0.0162,0.236,0.31,0.2478,0.1232
+102,review virtual american idol hits right notes,0.0175,0.0144,0.007,0.6183,0.0432,0.2997
+103,squadron apologies over friendly fire death,0.1455,0.057,0.2204,0.0141,0.4484,0.1146
+104,the breast cancer breakthrough saving women a year,0.0602,0.0139,0.1219,0.4616,0.121,0.2214
+105,abbas rejects temporary state,0.1559,0.1016,0.3713,0.1209,0.2009,0.0494
+106,iraqi forces detain official suspected in shia conspiracy,0.135,0.1024,0.167,0.0701,0.4398,0.0858
+107,congressman rebukes u s allies for lack of support in afghanistan,0.1099,0.0735,0.2663,0.1722,0.2528,0.1253
+108,easy ways to really save,0.0375,0.0254,0.0849,0.3275,0.0672,0.4574
+109,real suffer carlos injury setback,0.0373,0.0235,0.1047,0.5775,0.0824,0.1747
+110,marijuana may stave off alzheimer s,0.0215,0.0,0.132,0.5112,0.1727,0.1626
+111,smokestacks in a white wilderness divide iceland,0.0596,0.1145,0.1359,0.2539,0.1509,0.2851
+112,paris journal smoking no longer tres chic in france,0.1417,0.1098,0.1518,0.2071,0.2324,0.1572
+113,cher s dress car bed have new owners,0.0181,0.0182,0.1448,0.3473,0.1408,0.3307
+114,hungarian opposition calls for vote after violence escalates,0.1971,0.0903,0.3261,0.0599,0.2558,0.0709
+115,freed kidnap suspect my terror at police raid,0.1417,0.091,0.3865,0.0959,0.1703,0.1145
+116,rockers big winners at brit awards,0.0369,0.0299,0.1007,0.4832,0.0425,0.3066
+117,cia leak trial summary,0.102,0.055,0.2291,0.2574,0.1855,0.1709
+118,experts issue new heart disease guidelines for women,0.0477,0.0147,0.2246,0.2496,0.11,0.3534
+119,in god s name religion based tax breaks housing to paychecks to books,0.1609,0.0579,0.0719,0.2036,0.0961,0.4096
+120,snow causes transport chaos in britain,0.0425,0.0351,0.3557,0.102,0.2336,0.231
+121,injured sarwan to miss one dayers,0.0236,0.006,0.0951,0.4609,0.038,0.3764
+122,study napping might help heart,0.0379,0.0031,0.1586,0.3079,0.1529,0.3396
+123,tailors and housewives busy as muslims celebrate eid,0.0572,0.0078,0.1246,0.5079,0.15,0.1524
+124,malaysia aggressively wooing tourists,0.0422,0.0243,0.1851,0.4377,0.1651,0.1457
+125,creating a whole album in a month,0.0974,0.1104,0.1251,0.1914,0.1872,0.2885
+126,wellcome awards anti fat research,0.0727,0.1347,0.1279,0.2977,0.1883,0.1786
+127,can t do this anymore not jack,0.0852,0.0345,0.1206,0.3681,0.0957,0.2959
+128,iran s boast on uranium enrichment is put to test,0.112,0.0647,0.3066,0.1123,0.1047,0.2997
+129,iraq closes borders with syria and iran,0.0987,0.0673,0.2217,0.2661,0.1747,0.1714
+130,in clue to addiction brain injury halts smoking,0.042,0.0052,0.1551,0.3101,0.1364,0.3513
+131,manning inspires giants to victory in dallas,0.0723,0.0501,0.0858,0.3761,0.1581,0.2575
+132,research supports medicinal marijuana,0.0368,0.0232,0.1035,0.5751,0.0814,0.18
+133,iraq insurgents attack us base,0.2131,0.0938,0.2679,0.0216,0.3546,0.049
+134,fire extinguisher part of tennessee execution kit,0.0931,0.0674,0.2616,0.0097,0.3948,0.1734
+135,city sets up ice storm shelters,0.0138,0.0028,0.1818,0.504,0.0725,0.2251
+136,gently weeps lyrics sheet up for sale,0.0553,0.0789,0.1582,0.3648,0.1236,0.2192
+137,cholesterol link in diabetes study,0.1144,0.0704,0.1941,0.1599,0.1262,0.3351
+138,zoo polar bear to have root canal,0.0804,0.0272,0.1796,0.2515,0.219,0.2423
+139,howard slams obama on iraq policy,0.0791,0.0543,0.1898,0.3524,0.135,0.1894
+140,fight starts over hpv vaccine,0.1446,0.0688,0.1389,0.3111,0.1548,0.1817
+141,obama announces presidential bid,0.0325,0.0663,0.0302,0.5653,0.0979,0.2078
+142,another death at georgia aquarium,0.1101,0.0211,0.0679,0.167,0.4588,0.175
+143,johnny depp to make movie of spy poisoning,0.0094,0.0429,0.0723,0.4783,0.0655,0.3316
+144,pap test a mainstay against cervical cancer may be fading,0.1149,0.0384,0.1615,0.2508,0.259,0.1754
+145,boy allegedly told to kill by mom gives up,0.0758,0.064,0.2738,0.031,0.3036,0.2519
+146,catania punished for fan violence,0.1246,0.0947,0.1632,0.1745,0.2671,0.1759
+147,the summit a slap in the face of the palestinians,0.0553,0.1015,0.2229,0.117,0.1589,0.3444
+148,dead bachelors in remote china still find wives,0.035,0.0018,0.196,0.201,0.3228,0.2434
+149,boy missing since found alive,0.0302,0.0029,0.249,0.1992,0.1883,0.3304
+150,girl left comatose after dental visit dies,0.0011,0.0,0.0932,0.1092,0.6186,0.1779
+151,fine wines in british columbia,0.0499,0.0372,0.1743,0.3214,0.2103,0.2069
+152,bollywood s brangelina engaged,0.0984,0.0873,0.1602,0.1575,0.327,0.1695
+153,north korea ready to discuss nuke disarmament,0.0532,0.0077,0.2323,0.4693,0.0864,0.1511
+154,action intensity boosts vision,0.033,0.0709,0.0946,0.3057,0.0785,0.4172
+155,stonehenge workers village found,0.0405,0.0739,0.0825,0.3012,0.1177,0.3841
+156,scientists tout cocoa s health benefits,0.0421,0.0342,0.1557,0.3149,0.1155,0.3376
+157,can north korea be trusted,0.0611,0.0206,0.2177,0.3395,0.0996,0.2616
+158,trailblazing trio protects city by the bay,0.1197,0.081,0.1089,0.2328,0.1586,0.299
+159,ganguly handed india squad call up,0.0717,0.0063,0.0744,0.3929,0.1418,0.3129
+160,beauticians cut curl offer stroke prevention info,0.0402,0.0304,0.2696,0.2237,0.221,0.215
+161,studios sign off on movie downloads,0.0703,0.0421,0.2117,0.338,0.2014,0.1364
+162,global web of suspects in child rape download,0.1706,0.1568,0.1984,0.0704,0.2635,0.1404
+163,libby prosecutors await judge s rulings,0.215,0.1342,0.1555,0.1362,0.181,0.1781
+164,police probe church fires half mile apart,0.1332,0.1566,0.249,0.1507,0.2721,0.0384
+165,second hanging also went awry iraq tape shows,0.1145,0.1369,0.1875,0.1529,0.1511,0.257
+166,stepping back in time at ski resort,0.0888,0.0692,0.1496,0.3302,0.1357,0.2265
+167,iraqi journalists add laws to list of dangers,0.1651,0.0602,0.2559,0.0678,0.2537,0.1973
+168,boy scouts blamed for starting wildfire,0.0538,0.0317,0.2203,0.2635,0.2036,0.2271
+169,report links humans to global warming,0.1102,0.0719,0.124,0.242,0.2652,0.1867
+170,stenson defends his title at dubai,0.0345,0.0154,0.0521,0.581,0.1854,0.1316
+171,iraqi linked to sunni bloc is held in plot military says,0.1457,0.0725,0.2709,0.1692,0.2054,0.1361
+172,china launches two satellites into orbit,0.1104,0.0527,0.0719,0.4122,0.07,0.2829
+173,north africa feared as staging ground for terror,0.0879,0.0474,0.2487,0.2,0.2752,0.1408
+174,breast cancer drug promises hope,0.0297,0.0,0.1178,0.4145,0.168,0.27
+175,mortar assault leaves at least dead,0.0883,0.0141,0.2946,0.0827,0.397,0.1233
+176,building a memorial to a son one child at a time,0.0628,0.0743,0.154,0.2355,0.1832,0.2902
+177,northeaster cancels flights shuts schools,0.0707,0.0484,0.2517,0.295,0.1855,0.1488
+178,india to test new nuclear missile,0.2236,0.0659,0.3367,0.1457,0.1056,0.1225
+179,dell to cut bonuses trim management,0.0558,0.0065,0.1237,0.349,0.1959,0.2692
+180,uk workers on alert for letter bombs,0.0671,0.1391,0.2116,0.1672,0.0824,0.3327
+181,storm leaves behind major travel troubles,0.0525,0.0295,0.3835,0.173,0.276,0.0856
+182,rupert murdoch s secret tivo,0.0608,0.034,0.0993,0.188,0.2335,0.3844
+183,house passes anti terrorism measure manila,0.0748,0.0295,0.1319,0.4193,0.2213,0.1232
+184,genghis khan beer mongolia grimaces,0.04,0.0241,0.134,0.4545,0.1614,0.186
+185,youtube founders split m payout,0.0356,0.0585,0.0599,0.3098,0.1635,0.3728
+186,former teacher poses for playboy,0.0587,0.0328,0.1132,0.4987,0.1192,0.1773
+187,madonna files adoption papers in malawi,0.0352,0.019,0.0539,0.4754,0.1204,0.2961
+188,eye on cosmos is lost to short circuit on hubble,0.0536,0.0753,0.1898,0.3377,0.055,0.2887
+189,all african amputee football games kick off,0.0,0.0,0.0015,0.6324,0.0053,0.3608
+190,forecasters expect toasty,0.04,0.0241,0.134,0.4545,0.1614,0.186
+191,corn stoves popping up in u s homes,0.0533,0.0217,0.2441,0.1823,0.2278,0.2708
+192,chvez threatens to jail violators of price controls,0.1789,0.0812,0.1196,0.2683,0.0916,0.2603
+193,scientists discover miracle in the depths,0.0412,0.0437,0.1341,0.2352,0.0779,0.4679
+194,google unveils do it yourself search engine,0.0656,0.048,0.1583,0.2056,0.1854,0.337
+195,ready to eat chicken breasts recalled due to suspected listeria,0.1203,0.0384,0.1989,0.3465,0.108,0.1879
+196,teen allegedly armed by mom turns self in,0.199,0.1053,0.1448,0.0514,0.2681,0.2315
+197,town packs gym to mourn killed in fire,0.0764,0.0213,0.3654,0.0413,0.3979,0.0977
+198,cocoa could be antidote to age related diseases says new study,0.0546,0.0077,0.1376,0.1673,0.3788,0.2539
+199,roundup protests erupt despite state of siege in guinea,0.0949,0.0608,0.4251,0.0183,0.2579,0.143
+200,bush authorized iranians arrest in iraq rice says,0.1955,0.1388,0.2793,0.0228,0.2866,0.0771
+201,anglican and catholic churches could merge,0.0772,0.0213,0.0842,0.3968,0.0813,0.3392
+202,cousin gunman was srebrenica survivor,0.0628,0.0415,0.183,0.1431,0.2159,0.3537
+203,australia tells bush to speed up guantanamo trial,0.0896,0.0174,0.1702,0.2142,0.154,0.3546
+204,european space agency,0.037,0.0233,0.1161,0.4489,0.0818,0.2929
+205,the secrets people reveal,0.0245,0.0357,0.1566,0.2967,0.1278,0.3586
+206,news baby pandas baby pandas baby pandas,0.0362,0.029,0.1427,0.285,0.2372,0.2699
+207,health canada issues advice on canned tuna,0.0753,0.0354,0.2623,0.2651,0.1233,0.2386
+208,grammys ready to name winners,0.1581,0.0583,0.0671,0.367,0.0576,0.2918
+209,asean urges north korea resolution,0.0598,0.0058,0.1591,0.4723,0.129,0.1741
+210,rebels to join nepal parliament,0.1735,0.0558,0.2319,0.2393,0.1358,0.1638
+211,rice u s won t pull plug on iraq,0.2322,0.091,0.3243,0.0868,0.1924,0.0733
+212,anglicans rebuke u s branch on same sex unions,0.136,0.1781,0.2063,0.1729,0.1854,0.1212
+213,somalia declares state of emergency,0.0882,0.0601,0.4201,0.104,0.2274,0.1002
+214,hussein co defendants executed,0.0932,0.084,0.1461,0.3101,0.2041,0.1623
+215,james brown s year old son left out of will,0.0434,0.025,0.0892,0.4972,0.0852,0.26
+216,ms adds office to vista coupon program,0.0522,0.0117,0.0501,0.2919,0.1555,0.4385
+217,britain to limit workers from romania bulgaria,0.0931,0.0724,0.2221,0.202,0.2035,0.207
+218,us airways boosts bid for delta,0.0,0.1786,0.0,0.3214,0.0357,0.4643
+219,hpv vaccination stirs heated debate in america,0.1405,0.0591,0.1732,0.258,0.2,0.1692
+220,full recovery expected for marathon winner,0.046,0.0264,0.1365,0.5185,0.1621,0.1105
+221,beckham won t play again for real,0.1299,0.0682,0.0935,0.3932,0.1284,0.1868
+222,cultural revolutionary the ipod is five,0.0086,0.0585,0.1131,0.4247,0.0502,0.3449
+223,village buried by inches of snow,0.0183,0.0108,0.2542,0.1297,0.2107,0.3763
+224,mountain glaciers melting faster united nations says,0.0868,0.0506,0.059,0.3481,0.1779,0.2777
+225,ice storm smacks roads power,0.027,0.0199,0.3951,0.0738,0.3204,0.1638
+226,ex border patrol agent beaten in prison,0.1817,0.0551,0.1525,0.1796,0.1283,0.3027
+227,israel to install cameras to show live mughrabi footage,0.189,0.0967,0.1675,0.2067,0.1457,0.1945
+228,latest updates on world s top stories,0.0406,0.0,0.3632,0.2007,0.0448,0.3507
+229,lily allen wins web music award,0.0092,0.0023,0.0885,0.6978,0.0388,0.1635
+230,rowling heartbroken euphoric at potter s end,0.038,0.0045,0.1048,0.2598,0.3886,0.2042
+231,hamas fatah leaders pledge to meet until they reach agreement,0.0714,0.03,0.2244,0.2666,0.1435,0.2642
+232,new vaccine for cervical cancer could prove useful in men too,0.0132,0.047,0.1288,0.3234,0.1458,0.3418
+233,mbeki world cup planning on track,0.07,0.0,0.1413,0.348,0.0764,0.3644
+234,money makeovers,0.04,0.0241,0.134,0.4545,0.1614,0.186
+235,punter charged with stabbing asks to live outside state,0.1765,0.0911,0.3713,0.012,0.2489,0.1002
+236,emi warns on profits boss goes,0.1879,0.093,0.2298,0.2046,0.113,0.1717
+237,gunman fine before shooting,0.1029,0.057,0.2298,0.0753,0.321,0.214
+238,svindal claims are golden double,0.1293,0.2005,0.174,0.138,0.2512,0.107
+239,ethiopia readies for millennium all its own,0.0376,0.0207,0.1191,0.4595,0.0662,0.2968
+240,mancuso sparks u s celebrations,0.1543,0.0348,0.2408,0.2147,0.166,0.1894
+241,nasa spacecraft to measure sun,0.0999,0.0474,0.1028,0.3087,0.108,0.3333
+242,teen repellent inventor wins infamous prize,0.069,0.0308,0.0719,0.5012,0.1307,0.1964
+243,peron held over s rights abuses,0.3217,0.0985,0.1572,0.0909,0.1365,0.1953
+244,kim jong il bans japanese cars in north korea,0.0752,0.0431,0.1662,0.3206,0.1892,0.2057
+245,canadians tracked in child porn ring,0.1711,0.2183,0.1814,0.0832,0.1649,0.1811
+246,ryan o neal injured son s girlfriend,0.0785,0.1201,0.1003,0.3149,0.2117,0.1744
+247,messi makes barcelona squad return,0.0359,0.0226,0.1038,0.5712,0.0885,0.178
+248,brith airways baggage charges cause confusion,0.0853,0.051,0.1245,0.2421,0.1091,0.3881
+249,a film star in kampala conjuring aminos ghost,0.081,0.1297,0.0252,0.3539,0.087,0.3232
+250,opponent is put on the spot over remarks about clinton,0.0111,0.0662,0.0941,0.3051,0.1257,0.3978
+251,apple set for massive market gains,0.1304,0.0115,0.1212,0.1737,0.2529,0.3103
+252,vista s hyped security will be tested,0.0274,0.006,0.2032,0.3792,0.2104,0.1737
+253,dating difficult for harry potter,0.0454,0.0634,0.0647,0.4304,0.2046,0.1915
+254,uk letter bombs may be from extremist drivers,0.0597,0.0726,0.1644,0.2487,0.1267,0.3279
+255,bush vows cooperation on health care,0.1646,0.0953,0.1694,0.2023,0.1721,0.1963
+256,baby born on turnpike after dad misses exit,0.0581,0.0832,0.1508,0.0158,0.4738,0.2184
+257,parachutist dies at bridge jump festival,0.0093,0.0,0.1568,0.003,0.5501,0.2809
+258,citing spy agencies study democrats seek iraq changes,0.1482,0.2105,0.1073,0.093,0.171,0.2701
+259,airlines uk airport runway unsafe,0.0778,0.0672,0.2335,0.1498,0.3039,0.1678
+260,man gets second chance at space ride,0.065,0.0917,0.1072,0.3089,0.1607,0.2665
+261,archaeologists find remains of couple locked in a hug,0.0462,0.0776,0.034,0.2293,0.2779,0.3351
+262,study detects a gene linked to alzheimer s,0.0596,0.1302,0.0918,0.1919,0.1214,0.4051
+263,weight loss drug to be sold over the counter,0.1168,0.0316,0.1251,0.2992,0.1816,0.2457
+264,zach braff says he has mild depression,0.0328,0.0224,0.0716,0.2973,0.2118,0.3641
+265,apple warns itunes users to wait on vista,0.1648,0.0238,0.0858,0.1039,0.2222,0.3995
+266,guy sweat is babe magnet,0.0,0.1052,0.0,0.1225,0.0682,0.7042
+267,in egypt rice speaks softly,0.113,0.0781,0.1326,0.2185,0.2635,0.1943
+268,ex jonbenet suspect child porn case dropped,0.1747,0.1569,0.2071,0.0556,0.1003,0.3054
+269,court tv accused killer tells jury a love story,0.0806,0.083,0.0437,0.1949,0.324,0.2738
+270,us to urge nato afghan spring offensive,0.1873,0.0424,0.3152,0.1504,0.1748,0.1299
+271,texan allegedly joined somalia rebel plot,0.15,0.0895,0.1935,0.2812,0.1507,0.135
+272,tensions as hungary marks uprising,0.0265,0.0146,0.1608,0.3197,0.2869,0.1916
+273,idf shells lebanese army positions across northern border,0.1791,0.1003,0.2574,0.0899,0.2763,0.0971
+274,north korea claims nuclear test,0.0639,0.0215,0.2353,0.3807,0.0997,0.1989
+275,beckham to l a for the game not fame,0.0146,0.0234,0.0844,0.7064,0.0214,0.1497
+276,hungary police tackle violent protestors,0.1725,0.1764,0.2354,0.1649,0.2028,0.0481
+277,arthurs upsets robredo in first round at the st petersburg open,0.0718,0.0283,0.0795,0.4455,0.0737,0.3012
+278,brazil air force cites faults and confusion in fatal crash,0.0637,0.0137,0.1006,0.2528,0.3354,0.2338
+279,war is close ethiopia tells somali rebels,0.1658,0.0458,0.2868,0.1041,0.2249,0.1726
+280,democrats plot bush troop increase censure,0.2327,0.1559,0.2697,0.0182,0.1785,0.145
+281,bangladesh ferry sinks dead,0.079,0.0018,0.294,0.0836,0.4287,0.1129
+282,sale of chrysler possible,0.0575,0.0713,0.1453,0.1476,0.3564,0.2219
+283,lawyer for deceased nazi era collaborator papon vows to bury him,0.1684,0.0874,0.1723,0.1655,0.27,0.1365
+284,mixed reaction to china s africa push,0.0841,0.0338,0.0818,0.3773,0.1995,0.2235
+285,jon stewart mocks benefits of cnn s i,0.0325,0.0555,0.1086,0.3511,0.0919,0.3605
+286,top colombia official resigns,0.0651,0.0957,0.2966,0.1039,0.2884,0.1503
+287,toshiba portege r,0.04,0.0241,0.134,0.4545,0.1614,0.186
+288,luxury digs in south carolina s lowcountry,0.0207,0.0309,0.1125,0.3359,0.2619,0.238
+289,th person dies after receiving flu shot,0.0091,0.0091,0.0825,0.3292,0.3906,0.1795
+290,bears watch as lead slips away,0.0213,0.0347,0.1503,0.4452,0.1693,0.1792
+291,jail me i ate ivory coast chocolate,0.1241,0.0627,0.083,0.325,0.145,0.2603
+292,teacher charged with sex assault,0.1471,0.2498,0.1186,0.0838,0.2536,0.1472
+293,college tuition continues climbing,0.0889,0.0266,0.1557,0.4376,0.1453,0.1459
+294,matthews lays off turkey workers,0.0594,0.0378,0.2199,0.2972,0.2528,0.1328
+295,space life search turns to tv,0.0662,0.0948,0.1258,0.2422,0.2925,0.1785
+296,myspace welcomes french friends,0.0745,0.01,0.0491,0.4861,0.0952,0.285
+297,hackers attack root servers,0.202,0.11,0.2959,0.0739,0.2578,0.0604
+298,ice storm coating midwest,0.0247,0.0104,0.4675,0.0599,0.2842,0.1533
+299,gop senators to force debate on troops in iraq,0.2139,0.0856,0.2138,0.1287,0.2803,0.0777
+300,ex teacher guilty in nude pictures scheme,0.0614,0.0381,0.1366,0.2095,0.2383,0.3162
+301,years on but couple still hugging,0.0359,0.0253,0.0707,0.3922,0.1344,0.3415
+302,pats fourth quarter rally finishes chargers,0.1282,0.0344,0.1997,0.3213,0.1138,0.2025
+303,review alpha dog misses the point,0.0,0.0566,0.045,0.1392,0.3315,0.4278
+304,andromeda involved in galactic collision,0.0995,0.0583,0.1315,0.2197,0.2688,0.2223
+305,injured marathon winner leaves hospital,0.0468,0.0186,0.1369,0.4639,0.22,0.1138
+306,kate is marrying doherty,0.0517,0.0268,0.2314,0.3671,0.0579,0.2651
+307,baghdad plan is a success iraq prime minister tells bush,0.176,0.1264,0.1726,0.1598,0.2292,0.1359
+308,beckham outlines reasons for move,0.1185,0.0425,0.0936,0.4299,0.1611,0.1544
+309,al qaeda chiefs are seen to regain power,0.0894,0.152,0.3342,0.1043,0.2205,0.0996
+310,start late retire rich,0.0525,0.0308,0.0914,0.4109,0.2605,0.1539
+311,autos drive european gains,0.04,0.0241,0.134,0.4545,0.1614,0.186
+312,immigrants and french reach deal in standoff,0.1511,0.0474,0.0408,0.3265,0.1276,0.3067
