@@ -1,7 +1,7 @@
 # 2020Fall-SYSU-Artificial_Intelligence
 
 ## 1 Introduction
-There is a collection of my assignments. This undergraduate course is "Artificial Intelligence" of the School of Computer Science, Sun Yat-Sen University in the fall of 2020. The instructor is Yanghui Rao. 
+There is my homework set. This undergraduate course is "Artificial Intelligence" of the School of Computer Science, Sun Yat-Sen University in the fall of 2020. The instructor is Yanghui Rao. 
 
 这是我在上中带计院的《人工智能》本科课程时完成的课程作业与实验项目，老师为饶洋辉。内容只是简单备份，仅供参考。
 
